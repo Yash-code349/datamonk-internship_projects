@@ -19,4 +19,4 @@ Blobs, Trees, and Commits are the building blocks of Git storage.
 Final Thoughts
 Before this, I used Git just for pushing and pulling code. But after exploring its internals, I now understand how it manages history and stores changes efficiently. It was interesting to peek inside Git’s engine room and realize how smart and lightweight it actually is.
 
-This summary helped me realize that Git is not just a tool, it concern about safely and Work quickly Done.
+This summary helped me realize that Git is not just a tool, it concern about safely and Work ethics.
